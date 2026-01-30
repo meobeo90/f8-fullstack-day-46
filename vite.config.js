@@ -12,7 +12,7 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
-  base: "/f8-React-Day-46",
+  base: "/f8-fullstack-day-46",
   resolve: {
     alias: {
       // eslint-disable-next-line no-undef
